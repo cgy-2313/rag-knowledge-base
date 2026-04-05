@@ -36,7 +36,9 @@ python rag_chatbot.py
 ```
 ├── docs/              # 知识库文档
 ├── rag_db/            # 向量数据库（自动生成）
-├── rag_chatbot.py     # 主程序
+├── rag_chatbot_01.py     # 主程序第一版
+├── rag_chatbot_02.py     # 主程序第二版
+├── rag_chatbot_03.py     # 主程序第三版
 ├── .env               # API Key配置（不上传）
 └── README.md
 ```
