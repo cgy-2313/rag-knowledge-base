@@ -33,11 +33,10 @@ pip install -r requirements.txt
 python rag_chatbot.py
 
 ## 项目结构
-
-\```
+```
 ├── docs/              # 知识库文档
 ├── rag_db/            # 向量数据库（自动生成）
 ├── rag_chatbot.py     # 主程序
 ├── .env               # API Key配置（不上传）
 └── README.md
-\```
+```
